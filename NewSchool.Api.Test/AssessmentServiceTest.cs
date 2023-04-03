@@ -20,7 +20,7 @@ namespace NewSchool.Api.Assessment.Test
             var assessmentProvider = new AssessmentProvider(dbContext, new NullLogger<AssessmentProvider>());
             var assessment = await assessmentProvider.GetAssesmentAsync(1);
             Assert.True(assessment.IsSuccess);
-            Assert.True(assessment.Asessment.Any());
+            Assert.NotEmpty(assessment.Asessment);
             Assert.Null(assessment.ErrorMessage);
         }
     }
