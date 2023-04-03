@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vbsAAyRCE8J7BnpICN0hI7vRbz440k69CnPaZsrb9XY=",
+  "Source": "NewSchool.Api.Assessment",
+  "BasePath": "_content/NewSchool.Api.Assessment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

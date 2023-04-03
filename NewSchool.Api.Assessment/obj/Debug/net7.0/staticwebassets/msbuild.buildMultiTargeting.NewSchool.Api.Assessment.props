@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewSchool.Api.Assessment.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T4HGlBAdZWfrkbtZHHxhmRcBu4pTwLx61c1X6oZlsxc=",
+  "Source": "NewSchool.Api.Student",
+  "BasePath": "_content/NewSchool.Api.Student",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
