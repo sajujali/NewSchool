@@ -8,7 +8,7 @@ namespace NewSchool.Api.Assessment.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Pleasant"
+        "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching", "Pleasant1"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
