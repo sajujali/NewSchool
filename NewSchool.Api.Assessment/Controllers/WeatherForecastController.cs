@@ -35,8 +35,9 @@ namespace NewSchool.Api.Assessment.Controllers
                     Mode = RetryMode.Exponential                    
                  }
             };
-            var client = new SecretClient(new Uri("https://schoolappvault.vault.azure.net/"), new DefaultAzureCredential(), options);
+            //var client = new SecretClient(new Uri("https://schoolappvault.vault.azure.net/"), new DefaultAzureCredential(), options);
 
+            var client = new SecretClient(new Uri("https://schoolappvault.vault.azure.net/"), new ManagedIdentityCredential(), options);
             KeyVaultSecret secret = client.GetSecret(id);
 
             return secret.Value;
