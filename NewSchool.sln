@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewSchool.Api.Search", "New
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewSchool.Api.Assessment.Test", "NewSchool.Api.Test\NewSchool.Api.Assessment.Test.csproj", "{C5189C44-EFD3-4219-9F48-11C13B990C4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationTest", "WebApplicationTest\WebApplicationTest.csproj", "{01A228C8-6CA8-4C6E-A98A-F67B9EC033FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C5189C44-EFD3-4219-9F48-11C13B990C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5189C44-EFD3-4219-9F48-11C13B990C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5189C44-EFD3-4219-9F48-11C13B990C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A228C8-6CA8-4C6E-A98A-F67B9EC033FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A228C8-6CA8-4C6E-A98A-F67B9EC033FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A228C8-6CA8-4C6E-A98A-F67B9EC033FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A228C8-6CA8-4C6E-A98A-F67B9EC033FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

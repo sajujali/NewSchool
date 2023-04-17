@@ -69,3 +69,4 @@ C:\Users\saju\source\repos\NewSchool\NewSchool.Api.Assessment\obj\Debug\net7.0\r
 C:\Users\saju\source\repos\NewSchool\NewSchool.Api.Assessment\obj\Debug\net7.0\NewSchool.Api.Assessment.pdb
 C:\Users\saju\source\repos\NewSchool\NewSchool.Api.Assessment\obj\Debug\net7.0\NewSchool.Api.Assessment.genruntimeconfig.cache
 C:\Users\saju\source\repos\NewSchool\NewSchool.Api.Assessment\obj\Debug\net7.0\ref\NewSchool.Api.Assessment.dll
+C:\Users\saju\source\repos\NewSchool\NewSchool.Api.Assessment\bin\Debug\net7.0\Azure.Security.KeyVault.Secrets.dll

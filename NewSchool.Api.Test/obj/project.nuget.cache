@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yTfNgd/S4UEAmFyE3sCMbpTuXoGWyf50v/bJO90eGCRoNyTJn19Xtp2Z0ahJksExWlj7qdKm0rENc9TZP334pg==",
+  "dgSpecHash": "WUn5LaLHskKoV+ZPSCsf7DkMDWfKHa99ZNMPaN0skxTkOSz2uiQ0HLlAWMp5s5QEwUJe7DQVWN2dXbn/nPhOow==",
   "success": true,
   "projectFilePath": "C:\\Users\\saju\\source\\repos\\NewSchool\\NewSchool.Api.Test\\NewSchool.Api.Assessment.Test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\saju\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
+    "C:\\Users\\saju\\.nuget\\packages\\azure.core\\1.30.0\\azure.core.1.30.0.nupkg.sha512",
     "C:\\Users\\saju\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\saju\\.nuget\\packages\\azure.security.keyvault.secrets\\4.5.0\\azure.security.keyvault.secrets.4.5.0.nupkg.sha512",
     "C:\\Users\\saju\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\saju\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\saju\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
